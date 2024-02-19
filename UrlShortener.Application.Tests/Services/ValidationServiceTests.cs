@@ -1,4 +1,5 @@
 ﻿using UrlShortener.Application.Services;
+using UrlShortener.Common.Constants;
 using UrlShortener.Common.Exceptions;
 
 namespace UrlShortener.Application.Tests.Services;
@@ -26,5 +27,12 @@ public class ValidationServiceTests
     {
         var act = () => ValidationService.IsUrlValid(url);
         act.Should().NotThrow<ValidationException>("Url is not in the correct format");
+    }
+    
+    [Test]
+    public void IsUrlValid_ForUrlShortenerUrl_Fails()
+    {
+        var act = () => ValidationService.IsUrlValid(UrlShortenerConstants.ApiBaseUrl);
+        act.Should().Throw<ValidationException>("Cannot shorten Url shortener Urls");
     }
 }
