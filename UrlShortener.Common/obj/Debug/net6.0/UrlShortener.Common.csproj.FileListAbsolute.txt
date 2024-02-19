@@ -1,0 +1,11 @@
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\bin\Debug\net6.0\UrlShortener.Common.deps.json
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\bin\Debug\net6.0\UrlShortener.Common.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\bin\Debug\net6.0\UrlShortener.Common.pdb
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\UrlShortener.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\UrlShortener.Common.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\UrlShortener.Common.AssemblyInfo.cs
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\UrlShortener.Common.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\UrlShortener.Common.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\refint\UrlShortener.Common.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\UrlShortener.Common.pdb
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Common\obj\Debug\net6.0\ref\UrlShortener.Common.dll

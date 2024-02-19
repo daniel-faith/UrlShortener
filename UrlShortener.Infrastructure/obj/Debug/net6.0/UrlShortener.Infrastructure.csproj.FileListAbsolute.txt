@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\bin\Debug\net6.0\UrlShortener.Infrastructure.deps.json
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\bin\Debug\net6.0\UrlShortener.Infrastructure.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\bin\Debug\net6.0\UrlShortener.Infrastructure.pdb
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\bin\Debug\net6.0\UrlShortener.Application.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\bin\Debug\net6.0\UrlShortener.Application.pdb
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.AssemblyInfo.cs
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.csproj.CopyComplete
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\refint\UrlShortener.Infrastructure.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\UrlShortener.Infrastructure.pdb
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\obj\Debug\net6.0\ref\UrlShortener.Infrastructure.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\bin\Debug\net6.0\UrlShortener.Common.dll
+C:\Users\danie\Desktop\Payroc\UrlShortener\UrlShortener.Infrastructure\bin\Debug\net6.0\UrlShortener.Common.pdb
